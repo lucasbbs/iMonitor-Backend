@@ -4,7 +4,7 @@
   "description": "Essa é uma das três partes do projeto Proffy, projeto esse que faz parte da Next Level Week #2, semana de desenvolvimento focado da Rocketseat e está sendo desenvolvido em ReactJS, Node.js e React Native",
   "main": "src/server.ts",
   "scripts": {
-    "start": "node dist/src/server.js",
+    "start": "node build/src/server.js",
     "postinstall": "tsc",
     "dev": "tsnd --transpile-only --ignore-watch node_modules --respawn src/server.ts",
     "knex:migrate": "knex --knexfile knexfile.ts migrate:latest",
