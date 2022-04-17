@@ -1,5 +1,5 @@
 <div background="black"><p align="center" >
-<img src="https://raw.githubusercontent.com/lucasbbs/iMonitor-Backend/08a8247c3d3b81d13ae175c495258e14b2540e16/Imonitor%20copy.svg"/>
+<img src="https://raw.githubusercontent.com/lucasbbs/iMonitor-backend/fa82741cef566db067831f00e4f4088f129415b0/Imonitor%20copy.svg"/>
 </p></div>
 <p>
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" />
@@ -36,9 +36,7 @@ Construido com :heart: usando as tecnologias:
 
 #### Deploy
 
-<ul>
-  <li><a href="https://www.heroku.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" width="40px" /></a></li>
-</ul>
+<a href="https://www.heroku.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" width="40px" /></a>
 
 # :construction_worker: Rodando o projeto
 
