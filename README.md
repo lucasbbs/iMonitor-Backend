@@ -31,7 +31,7 @@ Construido com :heart: usando as tecnologias:
 <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" /></a>
 <a href="https://expressjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40px" /></a>
 <a href="https://www.sqlite.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40px" /></a>
-<a href="https://knexjs.org"><img src="https://raw.githubusercontent.com/lucasbbs/iMonitor-Backend/9317446cb59e32c9fd3529619b44fe8c0577a6a1/knex-1.svg" width="40px" /></a>
+<a href="https://knexjs.org"><img src="https://raw.githubusercontent.com/lucasbbs/iMonitor-backend/c8685c2be2e8427a9fd7be24d68cdffa4286b4eb/knex-1.svg" width="40px" /></a>
    </div>
 
 #### Deploy
