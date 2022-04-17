@@ -1,4 +1,4 @@
-import brcyptjs from 'bcryptjs';
+const brcyptjs = require('bcryptjs');
 
 export const seed = async (knex) => {
   await knex('users').del();
