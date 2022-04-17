@@ -1,5 +1,5 @@
-import path from 'path';
-import 'dotenv/config';
+const path = require('path');
+require('dotenv').config();
 
 module.exports = {
   client: 'sqlite3',
