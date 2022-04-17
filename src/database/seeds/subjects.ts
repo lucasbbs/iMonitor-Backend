@@ -1,5 +1,5 @@
 export const seed = async (knex) => {
-  await knex('subjects').del();
+  // await knex('subjects').del();
 
   await knex('subjects').insert([
     {
