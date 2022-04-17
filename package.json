@@ -1,0 +1,45 @@
+{
+  "name": "proffy-server",
+  "version": "1.0.0",
+  "description": "Essa é uma das três partes do projeto Proffy, projeto esse que faz parte da Next Level Week #2, semana de desenvolvimento focado da Rocketseat e está sendo desenvolvido em ReactJS, Node.js e React Native",
+  "main": "src/server.ts",
+  "scripts": {
+    "start": "node dist/src/server.js",
+    "postinstall": "tsc",
+    "dev": "tsnd --transpile-only --ignore-watch node_modules --respawn src/server.ts",
+    "knex:migrate": "knex --knexfile knexfile.ts migrate:latest",
+    "knex:seed": "knex --knexfile knexfile.ts seed:run",
+    "knex:rollback": "knex --knexfile knexfile.ts migrate:rollback",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HigorMoroni/proffy-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HigorMoroni/proffy-server/issues"
+  },
+  "homepage": "https://github.com/HigorMoroni/proffy-server#readme",
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.2",
+    "@types/cors": "^2.8.7",
+    "@types/express": "^4.17.7",
+    "@types/jsonwebtoken": "^8.5.8",
+    "ts-node-dev": "^1.0.0-pre.56",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "knex": "^0.21.2",
+    "pg": "^8.3.0",
+    "sqlite3": "^5.0.2",
+    "ts-node": "^8.10.2"
+  }
+}
