@@ -1,20 +1,20 @@
 {
-  "name": "proffy-server",
+  "name": "imonitor-server",
   "version": "1.0.0",
-  "description": "Essa é uma das três partes do projeto Proffy, projeto esse que faz parte da Next Level Week #2, semana de desenvolvimento focado da Rocketseat e está sendo desenvolvido em ReactJS, Node.js e React Native",
+  "description": "",
   "main": "src/server.ts",
   "scripts": {
     "start": "node build/src/server.js",
     "postinstall": "tsc",
     "dev": "tsnd --transpile-only --ignore-watch node_modules --respawn src/server.ts",
-    "knex:migrate": "knex --knexfile knexfile.js migrate:latest",
+    "knex:migrate": "knex --knexfile knexfile.ts migrate:latest",
     "knex:seed": "knex --knexfile knexfile.ts seed:run",
     "knex:rollback": "knex --knexfile knexfile.ts migrate:rollback",
     "build": "tsc"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HigorMoroni/proffy-server.git"
+    "url": "git+https://github.com/lucasbbs/imonitor-backend.git"
   },
   "keywords": [],
   "engines": {
@@ -24,9 +24,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HigorMoroni/proffy-server/issues"
+    "url": "https://github.com/lucasbbs/imonitor-backend/issues"
   },
-  "homepage": "https://github.com/HigorMoroni/proffy-server#readme",
+  "homepage": "https://github.com/lucasbbs/imonitor-backend#readme",
   "devDependencies": {
     "@types/bcryptjs": "^2.4.2",
     "@types/cors": "^2.8.7",
