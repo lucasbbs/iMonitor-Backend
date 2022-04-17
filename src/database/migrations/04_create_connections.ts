@@ -1,6 +1,4 @@
-import Knex from 'knex';
-
-export async function up(knex: Knex) {
+export async function up(knex) {
   return knex.schema.createTable('connections', (table) => {
     table.increments('id').primary();
 
@@ -19,6 +17,6 @@ export async function up(knex: Knex) {
   });
 }
 
-export async function down(knex: Knex) {
+export async function down(knex) {
   return knex.schema.dropTable('connections');
 }
