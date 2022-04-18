@@ -1,5 +1,5 @@
 <div background="black"><p align="center" >
-<img src="https://raw.githubusercontent.com/lucasbbs/iMonitor-Backend/08a8247c3d3b81d13ae175c495258e14b2540e16/Imonitor%20copy.svg"/>
+<img src="https://raw.githubusercontent.com/lucasbbs/iMonitor-backend/fa82741cef566db067831f00e4f4088f129415b0/Imonitor%20copy.svg"/>
 </p></div>
 <p>
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" />
@@ -31,14 +31,12 @@ Construido com :heart: usando as tecnologias:
 <a href="https://nodejs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" /></a>
 <a href="https://expressjs.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40px" /></a>
 <a href="https://www.sqlite.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40px" /></a>
-<a href="https://knexjs.org"><img src="https://raw.githubusercontent.com/lucasbbs/iMonitor-Backend/9317446cb59e32c9fd3529619b44fe8c0577a6a1/knex-1.svg" width="40px" /></a>
+<a href="https://knexjs.org"><img src="https://raw.githubusercontent.com/lucasbbs/iMonitor-backend/c8685c2be2e8427a9fd7be24d68cdffa4286b4eb/knex-1.svg" width="40px" /></a>
    </div>
 
 #### Deploy
 
-<ul>
-  <li><a href="https://www.heroku.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" width="40px" /></a></li>
-</ul>
+<a href="https://www.heroku.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" width="40px" /></a>
 
 # :construction_worker: Rodando o projeto
 
@@ -88,7 +86,7 @@ Caso tudo dê certo, o resultado esperado é abrir um servidor na porta 3333, vo
 
 Lucas Breno de Souza Noronha Braga
 
-<a href="https://api.whatsapp.com/send?phone=5561983499994" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a><a href="mailto:lucasbbs@live.fr" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a><a src="https://github.com/lucasbbs/" target="_blank" ><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://linkedin.com/in/lucas-breno-noronha-braga/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://api.whatsapp.com/send?phone=5561983499994" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a><a href="mailto:lucasbbs@live.fr" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a><a href="https://github.com/lucasbbs/" target="_blank" ><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://linkedin.com/in/lucas-breno-noronha-braga/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 # :closed_book: License
 
